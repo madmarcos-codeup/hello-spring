@@ -74,7 +74,7 @@ Let's change the port used by your Spring Boot application. Add to your ``applic
 
 
 ### Now press the jolly Green play button 
-and direct your browser to http://localhost/hello 
+and direct your browser to http://localhost:8081/hello 
 
 --------------------------------
 
