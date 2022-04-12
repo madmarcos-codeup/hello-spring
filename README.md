@@ -46,7 +46,7 @@ public class HelloController {
 and add appropriate imports.
 
 4. Add a new annotation to HelloSpringApplication:
-   `@ComponentScan(basePackages = {"docrob.controller"})`
+   `@ComponentScan(basePackages = {"<your name>.controller"})`
 
     Add it above the `@SpringBootApplication` annotation.
 
