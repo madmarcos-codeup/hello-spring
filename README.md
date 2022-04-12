@@ -26,11 +26,11 @@ With this annotation, Spring will automatically try to find and load any class y
 
 --------------------------------
 
-## Time to add an Endpoint!
+## Time to add an endpoint!
 
 1. Make a new package called `controller`
 
-2. create Java class in `controller` package called `HelloController`
+2. create a Java class in `controller` package called `HelloController`
 
 3. add the following code to your class:
 ```Java
