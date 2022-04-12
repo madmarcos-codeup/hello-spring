@@ -48,7 +48,7 @@ and add appropriate imports.
 4. Add a new annotation to HelloSpringApplication:
    `@ComponentScan(basePackages = {"docrob.controller"})`
 
-    Add it above the `@RestController` annotation.
+    Add it above the `@SpringBootApplication` annotation.
 
 The class is flagged as a ``@RestController``, meaning it is ready for use by Spring MVC to handle web requests.
 `@GetMapping` maps /hello to the hello() method, i.e., when Spring receives a GET request with the /hello path, it runs the code in the hello() method. 
